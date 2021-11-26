@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=100&section=header&text=Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=100&section=header&text=👋😃Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
 
 
-👋😃 Jaewoo Park <br> <br>
+ Jaewoo Park <br> <br>
 🦊 Languages & Skills 🌱 <br> <br>
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
