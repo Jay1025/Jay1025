@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=500&section=footer)
