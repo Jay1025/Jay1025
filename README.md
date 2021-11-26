@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) --> 
 👋😃 I'm Jaewoo Park <br> <br>
-🦊Languages & Skills <br>
-🌱 I’m currently learning ... <br>
+🦊 Languages & Skills <br> <br>
+🌱 I’m currently learning ... <br> <br>
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
