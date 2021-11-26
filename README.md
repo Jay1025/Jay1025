@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
 
-<a href="https://8dreams.tistory.com/">
-   블로그로 가기
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="file:///Users/jay/Downloads/tistory.svg"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href = "https://8dreams.tistory.com/"> 
+   블로그로 이동
+   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
 </a>
 
 🌱 Languages & Skills <br> <br>
