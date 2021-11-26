@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=130&section=header&text=👋😃Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FED100&height=130&section=header&text=👋😃Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
 
 
 🦊 Languages & Skills <br> <br>
