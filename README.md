@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=150&section=header&text=👋😃Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=130&section=header&text=👋😃Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
 
 
 🦊 Languages & Skills <br> <br>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a> <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark)](https://github.com/Jay1025/github-readme-stats&theme=radical) </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
