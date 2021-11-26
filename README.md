@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="file:///Users/jay/Downloads/tistory.svg"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
