@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /></a><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a> <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%237BC82B&icon=github.svg&icon_color=%23157C1F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
