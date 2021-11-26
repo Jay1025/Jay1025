@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a> <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=f66613&bg_color=30deg, 876dd6, 786ad2, 6967ce, 5863ca, 4660c5, 356aca, 2074ce, 007dd0, 0094d5, 00a9d2, 17bbcb, 60cbc4);)](https://github.com/Jay1025/github-readme-stats&theme=merko) </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=f66613&bg_color=60cbc4);)](https://github.com/Jay1025/github-readme-stats&theme=merko) </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
