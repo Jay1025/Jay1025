@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) --> 
 👋 i'm Jaewoo Park <br> <br>
-Languages 
-Korean, Japanese, English, Chinese
+Languages <br>
+Korean, Japanese, English, Chinese <br>
 
 Skills
 🌱 I’m currently learning ...
