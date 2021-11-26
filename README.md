@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a> <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=FED100&bg_color=0c120f&text_color=22921a)](https://github.com/Jay1025/github-readme-stats&show_icons=true) </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=FED100&bg_color=0c120f&text_color=22921a&show_icons=true)](https://github.com/Jay1025/github-readme-stats) </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
