@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) --> 
 👋 i'm Jaewoo Park <br> <br>
-Languages <br>
-Korean, Japanese, English, Chinese <br>
+Languages <br>🇺
+��Korean, 🇯🇵Japanese, English, Chinese <br>
 
 Skills <br>
 🌱 I’m currently learning ... <br>
