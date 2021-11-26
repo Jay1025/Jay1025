@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=100&section=header&text=Jaewoo%20Park&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FED100&height=100&section=header&text=Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
 
 
 👋😃 Jaewoo Park <br> <br>
