@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) --> 
-👋 i'm Jaewoo Park <br> <br>
-Languages <br>🇺
-��Korean, 🇯🇵Japanese, English, Chinese <br>
-
-Skills <br>
+👋😃 I'm Jaewoo Park <br> <br>
+🦊Languages & Skills <br>
 🌱 I’m currently learning ... <br>
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
