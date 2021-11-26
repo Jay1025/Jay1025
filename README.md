@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" /></a> <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay1025&layout=compact)](https://github.com/Jay1025/github-readme-stats)
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=FED100&bg_color=0c120f&text_color=e2871d&show_icons=true&icon_color=de1203)](https://github.com/Jay1025/github-readme-stats) </a>
 <br><br>
