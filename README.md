@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FED100&height=130&section=header&text=�Jaewoo%20Park&fontSize=40&animation=fadeIn&fontAlign=70)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
 
 🦊 Languages & Skills <br> <br>
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a> 
 
 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
+
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=FED100&height=100&section=footer)
