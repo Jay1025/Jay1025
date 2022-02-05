@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay1025&count_bg=%23F3CB22&title_bg=%23D91B1B&icon=github.svg&icon_color=%23E9CE25&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
-🌱 Blog & Notion <br>
+🌱 Blog 
+<br>
 <a href = "https://8dreams.tistory.com/"> 
    <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
-</a></a>
-<a href = "https://www.notion.so/412845a313434dd4acd2629d20dcfde9"> 
-   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 </a>
 
 🌱 Languages & Skills <br> <br>
