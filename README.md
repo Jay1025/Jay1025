@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay1025&layout=compact)](https://github.com/Jay1025/github-readme-stats)
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewooPark&title_color=FED100&bg_color=0c120f&text_color=e2871d&show_icons=true&icon_color=de1203)](https://github.com/Jay1025/github-readme-stats) </a>
-<br><br>
+<br>
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=whl5105) --> 
